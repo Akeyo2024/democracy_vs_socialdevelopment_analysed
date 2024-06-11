@@ -1,1 +1,2 @@
 # democracy_vs_socialdevelopment_analysed
+explanation_of the project
