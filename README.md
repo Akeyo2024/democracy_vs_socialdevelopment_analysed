@@ -6,3 +6,5 @@ The Project seeks to use data analytic tools to fill the research gaps in overge
 In the EDA files, you will find the data used (source), the data frame (rows and columns), explanations as to the justifications of the project, its limitations and intended importance. 
 
 The analysis presents the spread of democracy globally, categorised into Weak, Moderate and Strong democracies. It also shows the social development indices of various countries and the relationship between each of the democratic variables and social development. 
+
+Further comprehensive analysis and visualization is undertaken on tableau. 
